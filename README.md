@@ -1,4 +1,4 @@
-CodingNight
+Zühlke CodingNight
 ===========
 
-Coding night sources
+Coding night Teilnmeher bitte github Account tzu mitteilen, dann kann ohne Pull requests gepusht werden!
